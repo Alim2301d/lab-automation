@@ -8,7 +8,7 @@
 <meta name="description" content>
 <meta name="keywords" content>
 
-<title>Electrow - Power And Electricity Services HTML5 Template</title>
+<title>Micro-Electronic</title>
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
