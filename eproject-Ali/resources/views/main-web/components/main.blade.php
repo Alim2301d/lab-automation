@@ -141,7 +141,7 @@ injected humour.
 
 {{------------ about-section  ------}}
 
-<div class="about-area py-120">
+{{-- <div class="about-area py-120">
 <div class="container">
 <div class="row align-items-center">
 <div class="col-lg-6">
@@ -215,7 +215,7 @@ Sed ut perspiciatis unde omnis iste natus sit.
 </div>
 </div>
 </div>
-</div>
+</div> --}}
 {{------------- section-end  --------}}
 
 {{--------- our-features  --------}}
