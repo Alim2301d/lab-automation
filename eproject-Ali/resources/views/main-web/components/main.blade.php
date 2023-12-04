@@ -16,9 +16,9 @@
 <div class="col-md-12 col-lg-7">
 <div class="hero-content">
 <h6 class="hero-sub-title" data-animation="fadeInDown" data-delay=".25s">
-<i class="far fa-lightbulb-on"></i>Welcome To Electrow!</h6>
+<i class="far fa-lightbulb-on"></i>Welcome To MicroElectronics</h6>
 <h1 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
-Fast & Reliable <span>Electrical</span> Services
+Fast & Reliable <span>Electronics</span> Items
 </h1>
 <p data-animation="fadeInLeft" data-delay=".75s">
 There are many variations of passages orem psum available but the majority have
