@@ -36,7 +36,7 @@
 <div></div>
 </div>
 </div>
-  
+
 @yield('content')
 
 
@@ -63,7 +63,7 @@
 <script src="assets/js/counter-up.js"></script>
 <script src="assets/js/wow.min.js"></script>
 <script src="assets/js/main.js"></script>
-  
+
 </body>
 
 </html>

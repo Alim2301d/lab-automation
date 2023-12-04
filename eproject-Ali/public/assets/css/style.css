@@ -22,40 +22,40 @@ Table of contents
 11. Header top css
 12. Navbar css
 13. Multi level dropdown menu
-14. Search area css 
-15. Main section css 
-16. Hero css 
+14. Search area css
+15. Main section css
+16. Hero css
 17. Play btn
 18. Appointment area
-19. About css 
-20. Service css 
+19. About css
+20. Service css
 21. Service single
-22. Feature css 
-23. Portfolio css 
+22. Feature css
+23. Portfolio css
 24. Portfolio single
 25. Gallery css
 26. Call css
-27. Choose css 
-28. Testimonial css 
-29. Counter css 
-30. Step/process css 
-31. Cta css 
-32. Quote css 
+27. Choose css
+28. Testimonial css
+29. Counter css
+30. Step/process css
+31. Cta css
+32. Quote css
 33. Partner css
-34. Blog css 
+34. Blog css
 35. Blog single css
 36. Widget sidebar css
-37. Contact us css 
-38. Team css 
-39. Pricing css 
-40. Faq css 
+37. Contact us css
+38. Team css
+39. Pricing css
+40. Faq css
 41. Breadcrumb css
-42. Pagination css 
-43. Auth css 
-44. Coming soon css 
-45. Error css 
-46. Terms/privacy css 
-47. Footer css 
+42. Pagination css
+43. Auth css
+44. Coming soon css
+45. Error css
+46. Terms/privacy css
+47. Footer css
 48. Home 2
 49. Home 3
 
@@ -908,7 +908,7 @@ label {
 }
 
 .navbar-brand img {
-  width: 200px;
+  width: 100px;
 }
 
 .navbar .dropdown-toggle::after {
@@ -1241,7 +1241,7 @@ label {
 }
 
 /*====================
-14. Search area css 
+14. Search area css
 ======================*/
 
 .search-area {
@@ -1292,7 +1292,7 @@ label {
 }
 
 /*====================
-15. Main section css 
+15. Main section css
 ======================*/
 
 .main {
@@ -1300,7 +1300,7 @@ label {
 }
 
 /*====================
-16. Hero css 
+16. Hero css
 ======================*/
 
 .hero-section {
@@ -1692,7 +1692,7 @@ label {
 }
 
 /*====================
-19. About css 
+19. About css
 ======================*/
 
 .about-left {
@@ -1847,7 +1847,7 @@ label {
 }
 
 /*====================
-20. Service css 
+20. Service css
 ======================*/
 
 .service-area {
@@ -2000,7 +2000,7 @@ label {
 }
 
 /*====================
-22. Feature css 
+22. Feature css
 ======================*/
 
 .feature-area {
@@ -2097,7 +2097,7 @@ label {
 }
 
 /* ========================
-23. Portfolio css 
+23. Portfolio css
 =========================== */
 
 .portfolio-area {
@@ -2351,7 +2351,7 @@ label {
 }
 
 /* ========================
-25. Gallery css 
+25. Gallery css
 =========================== */
 
 .gallery-item {
@@ -2529,7 +2529,7 @@ label {
 }
 
 /*====================
-27. Choose css 
+27. Choose css
 ======================*/
 
 .choose-area {
@@ -2610,7 +2610,7 @@ label {
 }
 
 /*====================
-28. Testimonial css 
+28. Testimonial css
 ======================*/
 
 .testimonial-area {
@@ -2731,7 +2731,7 @@ label {
 }
 
 /*====================
-29. Counter css 
+29. Counter css
 ======================*/
 
 .counter-area {
@@ -2813,7 +2813,7 @@ label {
 }
 
 /* ===================
-30. Step/process css 
+30. Step/process css
 ====================== */
 
 .process-single {
@@ -2876,7 +2876,7 @@ label {
 }
 
 /*====================
-31. Cta css 
+31. Cta css
 ======================*/
 
 .cta-area {
@@ -2937,7 +2937,7 @@ label {
 }
 
 /*====================
-32. Quote css 
+32. Quote css
 ======================*/
 
 .quote-wrapper {
@@ -3007,7 +3007,7 @@ label {
 }
 
 /*====================
-33. Partner css 
+33. Partner css
 ======================*/
 
 .partner-area {
@@ -3015,7 +3015,7 @@ label {
 }
 
 /*====================
-34. Blog css 
+34. Blog css
 ======================*/
 
 .blog-area {
@@ -3542,7 +3542,7 @@ label {
 }
 
 /*===================
-37. Contact us css 
+37. Contact us css
 =====================*/
 
 .contact-wrapper {
@@ -3670,7 +3670,7 @@ label {
 }
 
 /*===================
-38. Team css 
+38. Team css
 =====================*/
 
 .team-area {
@@ -3782,7 +3782,7 @@ label {
 }
 
 /*===================
-39. Pricing css 
+39. Pricing css
 =====================*/
 
 .pricing-area {
@@ -3912,7 +3912,7 @@ label {
 }
 
 /*====================
-40. Faq css 
+40. Faq css
 ======================*/
 
 .faq-area .accordion-item {
@@ -4068,7 +4068,7 @@ label {
 }
 
 /*====================
-42. Pagination css 
+42. Pagination css
 ======================*/
 
 .pagination {
@@ -4098,7 +4098,7 @@ label {
 }
 
 /*====================
-43. Auth css 
+43. Auth css
 ======================*/
 
 .login-form {
@@ -4256,7 +4256,7 @@ label {
 }
 
 /*====================
-44. Coming soon css 
+44. Coming soon css
 ======================*/
 
 .coming-soon {
@@ -4370,7 +4370,7 @@ label {
 }
 
 /*====================
-45. Error css 
+45. Error css
 ======================*/
 
 .error-wrapper {
@@ -4408,7 +4408,7 @@ label {
 }
 
 /*====================
-46. Terms/privacy css 
+46. Terms/privacy css
 ====================== */
 
 .terms-content:not(:last-child) {
@@ -4437,7 +4437,7 @@ label {
 }
 
 /*====================
-47. Footer css 
+47. Footer css
 ======================*/
 
 .footer-area {
