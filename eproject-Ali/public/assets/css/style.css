@@ -908,11 +908,7 @@ label {
 }
 
 .navbar-brand img {
-<<<<<<< HEAD
   width: 90px;
-=======
-  width: 100px;
->>>>>>> 9b77a6466b740b0eba7dc38a5de6c930518ae45a
 }
 
 .navbar .dropdown-toggle::after {
