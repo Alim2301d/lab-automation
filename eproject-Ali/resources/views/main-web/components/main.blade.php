@@ -1,5 +1,5 @@
 <main class="main">
-{{-- -----slider-text and images ------ --}}
+<!-- {{-- -----slider-text and images ------ --}} -->
 <div class="hero-section">
 <div class="hero-shape">
 <div class="hero-shape-1"></div>
@@ -84,9 +84,9 @@ injected humour.
 </div>
 </div>
 </div>
-{{--------- slider-end ----- --}}
+<!-- {{--------- slider-end ----- --}} -->
 
-{{---------- form --------- --}}
+<!-- {{---------- form --------- --}} -->
 
 {{-- <div class="appointment">
 <div class="col-lg-8">
@@ -137,10 +137,10 @@ injected humour.
 </div>
 </div> --}}
 
-{{------------ form-end  ------------}}
+<!-- {{------------ form-end  ------------}} -->
 
-{{------------ about-section  ------}}
-
+<!-- {{------------ about-section  ------}} -->
+<!-- 
 {{-- <div class="about-area py-120">
 <div class="container">
 <div class="row align-items-center">
@@ -215,10 +215,10 @@ Sed ut perspiciatis unde omnis iste natus sit.
 </div>
 </div>
 </div>
-</div> --}}
-{{------------- section-end  --------}}
+</div> --}} -->
+<!-- {{------------- section-end  --------}} -->
 
-{{--------- our-features  --------}}
+<!-- {{--------- our-features  --------}} -->
 
 <div class="feature-area ft-bg py-120">
 <div class="container">
@@ -476,9 +476,9 @@ suffer.
 </div>
 </div>
 
-{{--------- service-end  -------}}
+<!-- {{--------- service-end  -------}} -->
 
-{{-------- rating-area  --------}}
+<!-- {{-------- rating-area  --------}} -->
 
 <div class="counter-area pt-50 pb-50">
 <div class="container">
@@ -531,9 +531,9 @@ suffer.
 </div>
 </div>
 
-{{-------- rating-end  --------}}
+<!-- {{-------- rating-end  --------}} -->
 
-{{---------- our-work  -------}}
+<!-- {{---------- our-work  -------}} -->
 
 <div class="portfolio-area py-120">
 <div class="container">
@@ -674,9 +674,9 @@ suffer.
 </div>
 </div>
 
-{{--------- work-end  --------}}
+<!-- {{--------- work-end  --------}} -->
 
-{{------------ emergency-call  ---------}}
+<!-- {{------------ emergency-call  ---------}} -->
 
 <div class="call-area">
 <div class="container">
@@ -697,7 +697,7 @@ suffer.
 </div>
 </div>
 
-{{------- call-end  -------}}
+<!-- {{------- call-end  -------}} -->
 
 <div class="pricing-area py-120">
 <div class="container">
@@ -799,7 +799,7 @@ suffer.
 <div class="col-lg-6">
 <div class="choose-img wow fadeInLeft" data-wow-delay=".25s">
 <img src="assets/img/choose/01.jpg" alt>
-<a class="play-btn popup-youtube" href="https://www.youtube.com/watch?v=ckHzmP1evNU">
+<a class="play-btn popup-youtube" href="https://www.youtube.com/watch?v=7UAlXqj1CG8">
 <i class="fas fa-play"></i>
 </a>
 </div>
@@ -870,7 +870,7 @@ have suffered alteration injected humour.</p>
 </div>
 <div class="team-content">
 <div class="team-bio">
-<h5><a href="team.html">Angela T. Vigil</a></h5>
+<h5><a href="team.html">Muhammad Musharaf</a></h5>
 <span>Engineer</span>
 </div>
 </div>
@@ -889,7 +889,7 @@ have suffered alteration injected humour.</p>
 </div>
 <div class="team-content">
 <div class="team-bio">
-<h5><a href="team.html">Frank A. Mitchell</a></h5>
+<h5><a href="team.html">Raj Baghat</a></h5>
 <span>Technician</span>
 </div>
 </div>
@@ -908,7 +908,7 @@ have suffered alteration injected humour.</p>
 </div>
 <div class="team-content">
 <div class="team-bio">
-<h5><a href="team.html">Susan D. Lunsford</a></h5>
+<h5><a href="team.html">Ali Muhammad</a></h5>
 <span>CEO & Founder</span>
 </div>
 </div>
@@ -927,7 +927,7 @@ have suffered alteration injected humour.</p>
 </div>
 <div class="team-content">
 <div class="team-bio">
-<h5><a href="team.html">Dennis A. Pruitt</a></h5>
+<h5><a href="team.html">Imran Mala</a></h5>
 <span>Manager</span>
 </div>
 </div>
