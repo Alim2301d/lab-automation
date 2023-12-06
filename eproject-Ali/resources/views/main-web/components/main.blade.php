@@ -322,11 +322,10 @@ Electric wires are typically made of aluminum or copper. They are either bare or
 </div>
 <div class="service-content">
 <h3 class="service-title">
-<a href="service-single.html">Air Conditioning</a>
+<a href="service-single.html">Switches</a>
 </h3>
 <p class="service-text">
-There are many variations of passages orem psum available but the majority have
-suffer.
+Switches are essential components of every network. They link several devices on the same network within a premises, such as PCs,servers and Etc 
 </p>
 <div class="service-arrow">
 <a href="service-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
@@ -341,11 +340,10 @@ suffer.
 </div>
 <div class="service-content">
 <h3 class="service-title">
-<a href="service-single.html">Security System</a>
+<a href="service-single.html">Resistor</a>
 </h3>
 <p class="service-text">
-There are many variations of passages orem psum available but the majority have
-suffer.
+Resistor is defined as. A passive electrical component with two terminals that are used for either limiting or regulating the flow of electric current.
 </p>
 <div class="service-arrow">
 <a href="service-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
@@ -360,11 +358,10 @@ suffer.
 </div>
 <div class="service-content">
 <h3 class="service-title">
-<a href="service-single.html">Indoor Lighting</a>
+<a href="service-single.html">Capacitor</a>
 </h3>
 <p class="service-text">
-There are many variations of passages orem psum available but the majority have
-suffer.
+A capacitor is a two-terminal electrical device that can store energy.It consists of two electrical conductors that are separated by a distance.
 </p>
 <div class="service-arrow">
 <a href="service-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
@@ -379,11 +376,10 @@ suffer.
 </div>
 <div class="service-content">
 <h3 class="service-title">
-<a href="service-single.html">Electrical Panels</a>
+<a href="service-single.html">LED Chip</a>
 </h3>
 <p class="service-text">
-There are many variations of passages orem psum available but the majority have
-suffer.
+LED chip contain small semiconductor chips that emit light when an electric current is passed through them.
 </p>
 <div class="service-arrow">
 <a href="service-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
@@ -398,11 +394,10 @@ suffer.
 </div>
 <div class="service-content">
 <h3 class="service-title">
-<a href="service-single.html">Surge Protection</a>
+<a href="service-single.html">Inductors</a>
 </h3>
 <p class="service-text">
-There are many variations of passages orem psum available but the majority have
-suffer.
+An inductor, also called a coil, choke, or reactor, is a passive two-terminal electrical component that stores energy.
 </p>
 <div class="service-arrow">
 <a href="service-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
@@ -417,11 +412,10 @@ suffer.
 </div>
 <div class="service-content">
 <h3 class="service-title">
-<a href="service-single.html">Baseboard Heating</a>
+<a href="service-single.html">Diodes</a>
 </h3>
 <p class="service-text">
-There are many variations of passages orem psum available but the majority have
-suffer.
+Diodes can be used as rectifiers, signal limiters, voltage regulators, switches, signal modulators, signal mixers etc.
 </p>
 <div class="service-arrow">
 <a href="service-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
@@ -436,11 +430,10 @@ suffer.
 </div>
 <div class="service-content">
 <h3 class="service-title">
-<a href="service-single.html">Install A Ceiling Fan</a>
+<a href="service-single.html">Transistor</a>
 </h3>
 <p class="service-text">
-There are many variations of passages orem psum available but the majority have
-suffer.
+A transistor is a semiconductor device used to amplify or switch electrical signals and power. It is one of the basic building blocks of modern electronics
 </p>
 <div class="service-arrow">
 <a href="service-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
