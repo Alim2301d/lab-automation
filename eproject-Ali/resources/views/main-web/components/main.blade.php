@@ -300,9 +300,7 @@ content of the page looking layout point.</p>
 <div class="service-item wow fadeInUp" data-wow-delay=".25s">
 <div class="service-img">
 <img src="assets/img/service/01.jpg" alt>
-<div class="service-icon">
-<i class="icon-electric"></i>
-</div>
+
 </div>
 <div class="service-content">
 <h3 class="service-title">
@@ -322,9 +320,6 @@ suffer.
 <div class="service-item wow fadeInDown" data-wow-delay=".25s">
 <div class="service-img">
 <img src="assets/img/service/02.jpg" alt>
-<div class="service-icon">
-<i class="icon-air-conditioning"></i>
-</div>
 </div>
 <div class="service-content">
 <h3 class="service-title">
@@ -344,9 +339,6 @@ suffer.
 <div class="service-item wow fadeInUp" data-wow-delay=".25s">
 <div class="service-img">
 <img src="assets/img/service/03.jpg" alt>
-<div class="service-icon">
-<i class="icon-cctv-camera"></i>
-</div>
 </div>
 <div class="service-content">
 <h3 class="service-title">
@@ -366,9 +358,6 @@ suffer.
 <div class="service-item wow fadeInDown" data-wow-delay=".25s">
 <div class="service-img">
 <img src="assets/img/service/04.jpg" alt>
-<div class="service-icon">
-<i class="icon-light-bulb-1"></i>
-</div>
 </div>
 <div class="service-content">
 <h3 class="service-title">
@@ -388,9 +377,6 @@ suffer.
 <div class="service-item wow fadeInUp" data-wow-delay=".25s">
 <div class="service-img">
 <img src="assets/img/service/05.jpg" alt>
-<div class="service-icon">
-<i class="icon-cabinet"></i>
-</div>
 </div>
 <div class="service-content">
 <h3 class="service-title">
@@ -410,9 +396,6 @@ suffer.
 <div class="service-item wow fadeInDown" data-wow-delay=".25s">
 <div class="service-img">
 <img src="assets/img/service/06.jpg" alt>
-<div class="service-icon">
-<i class="icon-shield-1"></i>
-</div>
 </div>
 <div class="service-content">
 <h3 class="service-title">
@@ -432,9 +415,6 @@ suffer.
 <div class="service-item wow fadeInUp" data-wow-delay=".25s">
 <div class="service-img">
 <img src="assets/img/service/07.jpg" alt>
-<div class="service-icon">
-<i class="icon-heater"></i>
-</div>
 </div>
 <div class="service-content">
 <h3 class="service-title">
@@ -454,9 +434,6 @@ suffer.
 <div class="service-item wow fadeInDown" data-wow-delay=".25s">
 <div class="service-img">
 <img src="assets/img/service/08.jpg" alt>
-<div class="service-icon">
-<i class="icon-fan"></i>
-</div>
 </div>
 <div class="service-content">
 <h3 class="service-title">

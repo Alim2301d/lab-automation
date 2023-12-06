@@ -16,6 +16,9 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('main-web.index');
 });
+Route::get('/resistor', function(){
+    return view('main-web.resistor');
+});
 
 Route::middleware([
     'auth:sanctum',
