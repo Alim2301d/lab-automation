@@ -304,11 +304,10 @@ content of the page looking layout point.</p>
 </div>
 <div class="service-content">
 <h3 class="service-title">
-<a href="service-single.html">Electrical Services</a>
+<a href="service-single.html">Electronic Wire</a>
 </h3>
 <p class="service-text">
-There are many variations of passages orem psum available but the majority have
-suffer.
+Electric wires are typically made of aluminum or copper. They are either bare or insulated and typically covered in a thin layer of thermoplastic. 
 </p>
 <div class="service-arrow">
 <a href="service-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
