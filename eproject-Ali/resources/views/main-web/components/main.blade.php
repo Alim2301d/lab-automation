@@ -304,13 +304,13 @@ content of the page looking layout point.</p>
 </div>
 <div class="service-content">
 <h3 class="service-title">
-<a href="service-single.html">Electronic Wire</a>
+<a href="{{route('shop')}}">Electronic Wire</a>
 </h3>
 <p class="service-text">
 Electric wires are typically made of aluminum or copper. They are either bare or insulated and typically covered in a thin layer of thermoplastic. 
 </p>
 <div class="service-arrow">
-<a href="service-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
+<a href="{{route('shop')}}">Read More<i class="fas fa-arrow-right-long"></i></a>
 </div>
 </div>
 </div>
@@ -322,13 +322,13 @@ Electric wires are typically made of aluminum or copper. They are either bare or
 </div>
 <div class="service-content">
 <h3 class="service-title">
-<a href="service-single.html">Switches</a>
+<a href="{{route('etc')}}">Switches</a>
 </h3>
 <p class="service-text">
 Switches are essential components of every network. They link several devices on the same network within a premises, such as PCs,servers and Etc 
 </p>
 <div class="service-arrow">
-<a href="service-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
+<a href="{{route('etc')}}">Read More<i class="fas fa-arrow-right-long"></i></a>
 </div>
 </div>
 </div>
@@ -358,13 +358,13 @@ Resistor is defined as. A passive electrical component with two terminals that a
 </div>
 <div class="service-content">
 <h3 class="service-title">
-<a href="service-single.html">Capacitor</a>
+<a href="{{route('capa')}}">Capacitor</a>
 </h3>
 <p class="service-text">
 A capacitor is a two-terminal electrical device that can store energy.It consists of two electrical conductors that are separated by a distance.
 </p>
 <div class="service-arrow">
-<a href="service-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
+<a href="{{route('capa')}}">Read More<i class="fas fa-arrow-right-long"></i></a>
 </div>
 </div>
 </div>

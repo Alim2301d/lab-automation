@@ -29,3 +29,12 @@ Route::middleware([
         return view('dashboard');
     })->name('dashboard');
 });
+Route::get('/service-single', function () {
+    return view('main-web.components.service-single');
+})->name('capa');
+Route::get('/electronic', function () {
+    return view('main-web.components.electronic');
+})->name('shop');
+Route::get('/switch', function () {
+    return view('main-web.components.switche');
+})->name('etc');
