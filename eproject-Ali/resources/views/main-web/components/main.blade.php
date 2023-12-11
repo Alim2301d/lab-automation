@@ -340,13 +340,13 @@ Switches are essential components of every network. They link several devices on
 </div>
 <div class="service-content">
 <h3 class="service-title">
-<a href="service-single.html">Resistor</a>
+<a href="{{route('shop2')}}">Resistor</a>
 </h3>
 <p class="service-text">
-Resistor is defined as. A passive electrical component with two terminals that are used for either limiting or regulating the flow of electric current.
+A resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element. In electronic circuits.
 </p>
 <div class="service-arrow">
-<a href="service-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
+<a href="{{route('shop2')}}">Read More<i class="fas fa-arrow-right-long"></i></a>
 </div>
 </div>
 </div>
@@ -358,13 +358,13 @@ Resistor is defined as. A passive electrical component with two terminals that a
 </div>
 <div class="service-content">
 <h3 class="service-title">
-<a href="{{route('capa')}}">Capacitor</a>
+<a href="{{route('shop3')}}">Capacitor</a>
 </h3>
 <p class="service-text">
 A capacitor is a two-terminal electrical device that can store energy.It consists of two electrical conductors that are separated by a distance.
 </p>
 <div class="service-arrow">
-<a href="{{route('capa')}}">Read More<i class="fas fa-arrow-right-long"></i></a>
+<a href="{{route('shop3')}}">Read More<i class="fas fa-arrow-right-long"></i></a>
 </div>
 </div>
 </div>
@@ -376,13 +376,13 @@ A capacitor is a two-terminal electrical device that can store energy.It consist
 </div>
 <div class="service-content">
 <h3 class="service-title">
-<a href="service-single.html">LED Chip</a>
+<a href="{{route('shop4')}}">LED Chip</a>
 </h3>
 <p class="service-text">
 LED chip contain small semiconductor chips that emit light when an electric current is passed through them.
 </p>
 <div class="service-arrow">
-<a href="service-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
+<a href="{{route('shop4')}}">Read More<i class="fas fa-arrow-right-long"></i></a>
 </div>
 </div>
 </div>
@@ -394,13 +394,13 @@ LED chip contain small semiconductor chips that emit light when an electric curr
 </div>
 <div class="service-content">
 <h3 class="service-title">
-<a href="service-single.html">Inductors</a>
+<a href="{{route('shop5')}}">Inductors</a>
 </h3>
 <p class="service-text">
 An inductor, also called a coil, choke, or reactor, is a passive two-terminal electrical component that stores energy.
 </p>
 <div class="service-arrow">
-<a href="service-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
+<a href="{{route('shop5')}}">Read More<i class="fas fa-arrow-right-long"></i></a>
 </div>
 </div>
 </div>
@@ -412,13 +412,13 @@ An inductor, also called a coil, choke, or reactor, is a passive two-terminal el
 </div>
 <div class="service-content">
 <h3 class="service-title">
-<a href="service-single.html">Diodes</a>
+<a href="{{route('shop6')}}">Diodes</a>
 </h3>
 <p class="service-text">
 Diodes can be used as rectifiers, signal limiters, voltage regulators, switches, signal modulators, signal mixers etc.
 </p>
 <div class="service-arrow">
-<a href="service-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
+<a href="{{route('shop6')}}">Read More<i class="fas fa-arrow-right-long"></i></a>
 </div>
 </div>
 </div>
@@ -430,13 +430,13 @@ Diodes can be used as rectifiers, signal limiters, voltage regulators, switches,
 </div>
 <div class="service-content">
 <h3 class="service-title">
-<a href="service-single.html">Transistor</a>
+<a href="{{route('shop7')}}">Transistor</a>
 </h3>
 <p class="service-text">
-A transistor is a semiconductor device used to amplify or switch electrical signals and power. It is one of the basic building blocks of modern electronics
+A transistor is a semiconductor device used to amplify or switch electrical signals and power. It is one of the basic building blocks.
 </p>
 <div class="service-arrow">
-<a href="service-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
+<a href="{{route('shop7')}}">Read More<i class="fas fa-arrow-right-long"></i></a>
 </div>
 </div>
 </div>
